@@ -19,6 +19,7 @@ minecraft rat + session id stealer generator
     -   History
     -   Bookmarks
     -   Autofill
+    -   MC Session ID
     -   Chrome, Edge, Brave, Opera GX, and many more...
 -   Discord injection
     -   Send token, password, and email on login or when password is changed
