@@ -1,5 +1,5 @@
 # skyscript
-minecraft rat generator + discord token & browser cookies stealer
+minecraft rat + session id stealer generator
 
 
 ## Features
