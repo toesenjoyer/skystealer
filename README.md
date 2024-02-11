@@ -28,7 +28,7 @@ minecraft rat + session id stealer generator
     -   System
     -   Disk
     -   Network
-    -   WiFi
+    -   WiFi/Internet
     -   Screenshot
 -   Anti-debug
 
